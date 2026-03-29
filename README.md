@@ -13,9 +13,6 @@ The solution covers end-to-end patient analytics across multiple pages:
 
 <img width="596" height="333" alt="Databuzz_Deepclinical" src="https://github.com/user-attachments/assets/6fdd9f12-e378-4355-a074-6b0c5d100756" />
 
-<img width="889" height="493" alt="aireport" src="https://github.com/user-attachments/assets/0798e893-8735-4956-bd51-63b78306bd8f" />
-
-
 ---
 
 • Visit & Follow-up – Patient visit frequency and delay analysis  
@@ -35,6 +32,8 @@ The solution covers end-to-end patient analytics across multiple pages:
 <img width="597" height="334" alt="Databuzz_Report" src="https://github.com/user-attachments/assets/4462b9b5-3174-43df-88aa-53fcb7b949c6" />
 
 <img width="596" height="334" alt="Databuzz_Prescription" src="https://github.com/user-attachments/assets/8b4e624d-57fa-4962-a57c-abecaf965374" />
+
+<img width="596" height="334" alt="aireport" src="https://github.com/user-attachments/assets/0798e893-8735-4956-bd51-63b78306bd8f" />
 
 ---
 
